@@ -1,0 +1,2 @@
+cd ../panel
+npm start

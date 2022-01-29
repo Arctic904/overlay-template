@@ -1,0 +1,2 @@
+cd ../rocketsocket
+npm start
